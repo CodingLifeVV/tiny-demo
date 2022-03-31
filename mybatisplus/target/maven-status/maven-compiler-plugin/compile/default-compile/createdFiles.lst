@@ -1,0 +1,5 @@
+com\codinglife\MybatisplusApplication.class
+com\codinglife\config\MybatisPlusConfig.class
+com\codinglife\entity\User.class
+com\codinglife\config\AutoFillConfig.class
+com\codinglife\mapper\UserMapper.class

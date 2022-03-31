@@ -1,0 +1,5 @@
+com\codinglife\SpringbootOssUploadfileApplication.class
+com\codinglife\service\OssFileService.class
+com\codinglife\util\AliyunOSSConfigConstant.class
+com\codinglife\controller\OssFileController.class
+com\codinglife\service\impl\OssFileServiceImpl.class
